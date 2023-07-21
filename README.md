@@ -1,2 +1,2 @@
 # java
-This is a public Repository to document my 8 years of journey as Java Developer.
+An attempt to share my Java interview experinces and Java learning journey through this repo 
