@@ -4,6 +4,9 @@
 
 Q. What are the different ways to create an Object in Java?
 Q. Explain the process that happens as soon as an Object is created(Constructor chaining)
+Q. Class not found exception vs No class def found error in Java?
+Q. Class.forName() vs loadClass() vs findSystemClass()?
+Q. Can constructors throw exceptions?
 Q. Can we synchronize constructors? What will happen?
 Q. Can we call a function from constructor? What will happen next?
 Q. How to access the private members of a class from outside of the class?
@@ -28,11 +31,8 @@ Q. Explain downcasting and upcasting?
 Q. Explain autoboxing and unboxing?
 Q. Advantage of downcasting over supertype reference? Or Why do we need downcasting?
 Q. Will String s = new String(null) compile? Why not or what will happen next? 
-Q. Explain the workflow of how user defined Exceptions work?
+Q. Explain the flow of how user defined Exceptions work?
 Q. What is Throwable.initCause? How it is useful?
-Q. Class not found exception vs No class def found error in Java?
-Q. Class.forName() vs loadClass() vs findSystemClass()?
-Q. Can constructors throw exceptions?
 Q. Difference between == and .equals()?
 Q. When will deadlock happen in Java? How to detect deadlocks? How would you prevent it?
 Q. What one should take care of, while serializing the object?
