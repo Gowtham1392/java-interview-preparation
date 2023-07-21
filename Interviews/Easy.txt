@@ -1,6 +1,6 @@
 # Most of these questions are not typical what is this or that kind of questions which we find in Java interview related blogs. 
-# These are the questions which came to my mind when I was preparing for Java Interviews.
-# Some might be very obvious and some are uncommon.  
+# These are the questions which came to my mind when I was preparing for Java interviews.
+# Some are very obvious and some are uncommon/rare.  
 
 Q. What are the different ways to create an Object in Java?
 Q. Explain the process that happens as soon as an Object is created(Constructor chaining)
