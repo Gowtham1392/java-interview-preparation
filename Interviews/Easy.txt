@@ -1,1 +1,40 @@
+# Most of these questions are not typical what is this or that kind of questions which we find in Java interview related blogs. 
+# These are the questions which came to my mind when I was preparing for Java Interviews.
+# Some might be very obvious and some are uncommon.  
+
+Q. What are the different ways to create an Object in Java?
+Q. Explain the process that happens as soon as an Object is created(Constructor chaining)
+Q. Can we synchronize constructors? What will happen?
+Q. Can we call a function from constructor? What will happen next?
+Q. How to access the private members of a class from outside of the class?
+Q. What is the use of a protected constructor?
+Q. What would happen if we make static variables as transient?
+Q. Can a class itself be static? Why or why not?
+Q. Why can't the top-level class be static?
+Q. Can we write a virtual method in Java? 
+Q. Overriding vs method hiding in Java?
+Q. Why operator overloading is not supported in Java? What about the "+" and "-" operators?
+Q. Why there are no pointers in Java?
+Q. Different ways to prevent overriding in Java?
+Q. What is a covariant return type?
+Q. Can we override static/private method? What happens if we try to do so?
+Q. What the rules to follow to override/overload a method?
+Q. How to write immutable class?
+Q. How to write a Singleton class in Java?
+Q. Different ways to write Singleton class with respect to multi threading? Pros and cons of each.
+Q. What is effectively final?
+Q. Why constructor can’t be final/abstract/static/synchronized?
+Q. Explain downcasting and upcasting?
+Q. Explain autoboxing and unboxing?
+Q. Advantage of downcasting over supertype reference? Or Why do we need downcasting?
+Q. Will String s = new String(null) compile? Why not or what will happen next? 
+Q. Explain the workflow of how user defined Exceptions work?
+Q. What is Throwable.initCause? How it is useful?
+Q. Class not found exception vs No class def found error in Java?
+Q. Class.forName() vs loadClass() vs findSystemClass()?
+Q. Can constructors throw exceptions?
+Q. Difference between == and .equals()?
+Q. When will deadlock happen in Java? How to detect deadlocks? How would you prevent it?
+Q. What one should take care of, while serializing the object?
+Q. What are the potential problems that substring() may cause?
 
