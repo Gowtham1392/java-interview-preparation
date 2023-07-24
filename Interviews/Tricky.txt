@@ -1,1 +1,6 @@
+Q. Can constructors throw exceptions?
+Q. Can we synchronize constructors? What will happen?
+Q. Can we call a function from constructor? What will happen next?
+Q. How to access the private members of a class from outside of the class?
+Q. What is the use of a protected constructor?
 
