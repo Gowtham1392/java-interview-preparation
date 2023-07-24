@@ -1,2 +1,2 @@
 # java
-An attempt to share my Java interview experinces and Java learning journey through this repo 
+Documenting the Java questions which I faced/thought of while preparing for Java interviews
