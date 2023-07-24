@@ -37,4 +37,4 @@ Q. Difference between == and .equals()?
 Q. When will deadlock happen in Java? How to detect deadlocks? How would you prevent it?
 Q. What one should take care of, while serializing the object?
 Q. What are the potential problems that substring() may cause?
-
+Q. What is tail traversing? How's that an issue in multi threading?
