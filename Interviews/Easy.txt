@@ -6,11 +6,6 @@ Q. What are the different ways to create an Object in Java?
 Q. Explain the process that happens as soon as an Object is created(Constructor chaining)
 Q. Class not found exception vs No class def found error in Java?
 Q. Class.forName() vs loadClass() vs findSystemClass()?
-Q. Can constructors throw exceptions?
-Q. Can we synchronize constructors? What will happen?
-Q. Can we call a function from constructor? What will happen next?
-Q. How to access the private members of a class from outside of the class?
-Q. What is the use of a protected constructor?
 Q. What would happen if we make static variables as transient?
 Q. Can a class itself be static? Why or why not?
 Q. Why can't the top-level class be static?
