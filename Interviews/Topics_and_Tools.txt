@@ -1,0 +1,80 @@
+Reflection
+Enum
+Java memory management
+Garbage collection
+Serialization
+classloader
+Exception handling
+Multitreading
+Collections
+Java 8
+Agile
+Project management tools
+GIT
+
+
+Spring Annotations
+IoC vs DI
+Logging in spring
+Profiling in spring application.properties
+basic sql queries
+Request bind for large no of data
+HQL vs Native query
+How handle large traffic in web app?
+How to fetch data from 2 different data sources?
+Perfomance improvement and monitoring?
+Microservice patterns?
+Thread related changes in Java 8?
+Which GC to use?
+Future in Java 8?
+How to maintain data integrity in microservice application?
+Which data base to choose? Postgres or MySQL? Why?
+Requirement gathering tools
+Performance monitoring tools
+Database indexing
+handle internal server error
+global error
+Common erros and how to resolve them
+What happens during maven build internally?
+Java use case examples
+Java scenario based questions
+Hibernate scenario based questions
+Static objects and garbage collection
+Manage sessions and cookies in web app
+How two microservices communicate with each other
+Messaging service in microservices
+
+
+Prevent web app from security threats
+Prevent web app from crashing
+Exception handling in spring boot
+Avoid database deadlock
+Common exceptions in spring and hibernate and how to avoid them
+Improve database perfomance 
+Software design principles
+How to implement "People who likes this also like..."
+How to perform cross-functional testing?
+Dynamic programming in Java
+Microservice scalability
+Message-driven, domain-driven,model-driven, event-driven
+Handle memory leak in Java
+How to perform database migration
+Monitor and manage spring boot application
+Why system.gc is a bad practice
+Spring new features
+Microservices patterns
+Challenges of microsrvices
+Maintain data consistency among microservices
+
+# Important tools
+kafka
+RabbitMQ
+Kubernetes
+Jenkins
+CircleCI
+BitBucket
+Ansible
+Docker
+Groovy
+SonarQube
+Jennifer, Zipkin, ELK stack(Elastic search, Logstash,kibana), Grafana
