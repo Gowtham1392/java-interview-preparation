@@ -7,7 +7,7 @@ classloader
 Exception handling
 Multitreading
 Collections
-Java 8
+Java new features by each version
 Agile
 Project management tools
 GIT
@@ -78,3 +78,8 @@ Docker
 Groovy
 SonarQube
 Jennifer, Zipkin, ELK stack(Elastic search, Logstash,kibana), Grafana
+Redis
+ArgoCD
+GCP
+Bigquery
+Spark
