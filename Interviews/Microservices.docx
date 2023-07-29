@@ -1,0 +1,13 @@
+How authenticate Microservice requests? Certifications?
+Microservice contract testing
+What are microservice contracts
+Event driven/Domain Driven approaches for inter service communication. Synchronous/Asynchronous communications
+How to scale microservice during runtime
+Scale microservice based on incoming requests
+When a microservice has multiple instances how to ensure that a message is read only once
+How to manage security in microservice(LDAP etc.)
+Gateways and service discoveries
+How to manage timeout period for a service
+Hystrix Circuit breaker 
+Spring cloud
+How to change configuration during runtime – Spring cloud bus
