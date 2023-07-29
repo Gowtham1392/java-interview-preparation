@@ -1,0 +1,70 @@
+=====================AT & T(13 Years Experinced)=========================================
+What is static initializer block?
+Where the static block gets stored in memory?
+Externalization in Java
+What is heap memory in Java?
+Garbage collection in Java?
+System.gc?
+How to avoid deadlock?
+Ways to create threads
+Can we synchronize process(Not threads)?
+What is re-entrant lock?
+Use of generics in core Java?
+What is type erasure in Generics?
+What is functional interface and how it is related to Lambda?
+What is Obfuscation(Making jar not to decompile) and how to do it?
+Advantages of Spring boot
+How security is provided by Spring boot?
+Default server provided by Spring boot?
+Change the server port in Spring boot?
+How to secure the rest APIs?
+What is oAuth and how it functions?
+Diff bw @controller and @restcontroller
+WHat are views and can we perform CRUD operations on views?
+What is Cartesian product?
+Outer join
+Diff bw clustered and non clustered indexes
+How request mapping is done in AWS?
+Explain working functionality of Kubernetes
+How load balancer works
+
+
+=========Tech Mahindra(4 Years Experienced)============================================
+Hashmap vs concurrent Hashmap(Advantages over one another)
+Explain try with resources. Why we don’t need finally
+Why wait(), notify(), notifyAll() methods are in Object class not in Thread class?
+How to achieve thread safety apart from using synchronization(Semaphore and Mutex)
+How many ways are there to break Singleton pattern? How to fix them?
+Custom serialization & Externalization with Example
+Detect a loop in linkedlist
+Indexing in SQL. How to write optimized query?
+Coding questions:
+Create own immutable Object like Date
+Program to sort the Employee details(Comparator & Comparable)
+Store Employee object in a map and no duplicate employee should be stored on the map
+First duplicate character from a String
+Find the longest palindrome in a String
+Explain Executor service framework submit vs execute
+
+
+
+=================================Highradius(5+ years)===================================
+Find the smallest missing number on a sequence
+seq = [3,1,4,6] 
+Output = 2
+Implement REST API to update a resource
+Java8 streams to find the highest salaried employee
+How Actuator in Spring boot is configured and what are its benefits
+What is devtools and how its helpful
+Yaml vs Spring boot properties
+Diff bw patch and put
+Internal implementation of Hashmap
+How to configure Global exception handler
+How to solve circular dependency
+How two microservices interact? What is the best way?
+Create custom Annotation
+How Spring transaction works? Isolation and Propagation levels
+Query to find the 3rd highest salary
+Future vs completable future
+Questions on one-to-one, many-to-many mappings
+How to maintain transactions when multiple service calls are involved
