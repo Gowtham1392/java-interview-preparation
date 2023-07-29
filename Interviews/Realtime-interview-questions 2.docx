@@ -1,0 +1,76 @@
+==============TCS(5+ Years)====================
+Different ways to handle exceptions in Spring MVC
+Dependency Injection 
+Benefits of Spring MVC over other MVC frameworks
+Viewresolver pattern and how does it work
+What is a scope in reference to Spring
+What is the root application context Spring MVC and how is it loaded
+Explain how an incoming request is mapped to a controller and to a method
+Diff bw @RequestParam and @PathVariable
+Explain the process of creating Spring boot app using Maven
+Discussion about different annotations used
+Explain about memory management in Java
+Explain SOLID principles and where have you applied them?
+Internal working of concurrent hashmap
+Multithreading
+Write a singleton class & write an immutable class
+String vs Sting Builder vs String Buffer
+Diff bw JDBC and Hibernate
+Explain the Hibernate Architecture
+How to deal with database deadlock
+First level and second level cache
+Explain about database sharding vs partitioning
+Questions on One-to-One and Many-to-One
+Diff bw HTTP and HTTPs
+Advantages of Microservices
+Things to consider before creating microservices application
+Best way to communicate bw different services
+Best way to manage transaction when multiple service calls are involved
+Design a sample application like Amazon(to check the approach)
+How to handle exceptions in microservices
+Common ways to reduce the load time of an application
+
+=============JPMC(8+ Years)===========================================
+What are GOF in design patters and different types of design pattern
+Name some of the design patterns used in JDK’s library
+What is Factory design pattern with realtime usage
+What is Bridge design patter with realtime usage
+Chain of responsibility design pattern? In which situation would you apply this?
+Adapter design patter with realtime usage
+Observer design pattern with usage
+Code to achieve thread-safe singleton in Java
+
+==================Optum===============================================
+Longest Palindrome in a String
+Find the duplicate words in a String
+Implement POST, GET, PUT API like creating, updating and getting the Employee
+Agile process
+Distributed Transaction
+Eureka in microservices
+Advantages and disadvantages of Microservices
+Spring AOP
+Annotations that are used in the project
+Exception in Spring and Spring boot
+Concurrent hashmap vs Hashtable
+What is BlockingQueue
+What is Runnable and Callable interfaces and when to use which?
+What is class lock and object lock
+Internal implementation of Hashmap
+Why is delete function faster in linkedlist than Array
+Efficient way to implement Singleton pattern in Java
+What is JavaBean exactly
+What is Spring IoC container
+Does Spring bean provide thread safety?
+Use case of Default method in project
+Benefits of Optional class in Java
+Is there anything like Static class in Java?
+How to read/convert InputStream into a String in Java? Write code.
+Can == be used in enum
+
+===============================IBM================================
+Circuit breaker pattern
+Concurrent and Synchronized hashmap
+How to configure Eureka server
+What is API gate and explain in detail
+Write a program to find each employee for each department. 
+How to configure oAuth2?
