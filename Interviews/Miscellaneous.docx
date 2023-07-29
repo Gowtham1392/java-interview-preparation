@@ -1,0 +1,34 @@
+Can functional interfaces have default and static methods?
+Why function interface has only one method?
+Scope of Lambda
+Explain Kafka implementation in spring boot
+Can I use Kafka with Zookeepr
+What about ACID properties in microservices, like transaction scaling in multiple microservices
+Put vs Patch
+How will you implement PUT, rest docs says put can also save data when data is not found
+Have you implemented delete mapping
+Why delete is not a frequent implementation for prod apps. Why?
+How to initialize one bean before another(For ex. Bean B should be initialize before Bean A)
+Two configs A and B are there in Spring boot. How to use config A inside config B?
+Pessimistic lock vs Optimistic lock
+Transaction management in Spring
+What happens under @Transactional
+Code inside static block and code inside @PostConstruct block which will be executed first?
+Explain OAUTH2 process
+Different API gateways and why we need them
+What architecture design patterns to use with containers
+A request goes through series of checks, which pattern suits this scenario
+Monolithic vs SOA vs Microservices
+How to decompose a monolithic project
+Logging mechanism for microservices
+Why ELK stack instead of Splunk for logging
+Deployment of microservices
+Importance of Spring boot profile
+Caching mechanism 
+Do you think we can use a database for caching?
+Scaling microservices
+Microservices communication using Feign client
+How to deploy microservices step by step
+How to load a configuration even before the Spring bean initialization
+Load balancers
+How to read a property value from application.properties
