@@ -11,6 +11,9 @@ Java new features by each version
 Agile
 Project management tools
 GIT
+Spring Cloud
+Microservices interservice communication techniques
+Design Patterns
 
 
 Spring Annotations
