@@ -15,6 +15,7 @@ Transaction management in Spring
 What happens under @Transactional
 Code inside static block and code inside @PostConstruct block which will be executed first?
 Explain OAUTH2 process
+How to configure OAUTH2 in spring boot
 Different API gateways and why we need them
 What architecture design patterns to use with containers
 A request goes through series of checks, which pattern suits this scenario
@@ -32,3 +33,5 @@ How to deploy microservices step by step
 How to load a configuration even before the Spring bean initialization
 Load balancers
 How to read a property value from application.properties
+Spring boot devtools
+
