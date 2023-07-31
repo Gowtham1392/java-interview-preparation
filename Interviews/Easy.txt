@@ -33,3 +33,5 @@ Q. When will deadlock happen in Java? How to detect deadlocks? How would you pre
 Q. What one should take care of, while serializing the object?
 Q. What are the potential problems that substring() may cause?
 Q. What will happen when a constructor is declared as private and protected?
+Q. Primary key vs unique key
+Q. Hibernate N+1 problem
