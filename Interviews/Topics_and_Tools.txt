@@ -1,26 +1,26 @@
+#Core Java
 Reflection
 Enum
-Java memory management
+Java memory management & JVM
 Garbage collection
 Serialization
-classloader
+Classloader
 Exception handling
 Multitreading
 Collections
 Java new features by each version
-Agile
-Project management tools
+Agile methodology
+Project management tools & performance monitoring tools
 GIT
 Spring Cloud
 Microservices interservice communication techniques
 Design Patterns
 
-
+#Spring
 Spring Annotations
 IoC vs DI
 Logging in spring
 Profiling in spring application.properties
-basic sql queries
 Request bind for large no of data
 HQL vs Native query
 How handle large traffic in web app?
@@ -39,8 +39,7 @@ handle internal server error
 global error
 Common erros and how to resolve them
 What happens during maven build internally?
-Java use case examples
-Java scenario based questions
+Java use case examples & Java scenario based questions
 Hibernate scenario based questions
 Static objects and garbage collection
 Manage sessions and cookies in web app
