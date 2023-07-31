@@ -37,3 +37,6 @@ Q. Primary key vs unique key
 Q. Hibernate N+1 problem
 Q. Mark and sweep algorithm and Mark sweep compact algorithm in Garbage collection
 Q. Weak reference and Soft reference, when to use what?
+Q. Exception with overriding. Rules and things to follow
+Q. Cyclic barrier and countdown latch
+Q. What exactly is the restriction to use non-static variables into static block(Memory allocation point of view)
