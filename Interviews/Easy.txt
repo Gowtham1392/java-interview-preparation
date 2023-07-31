@@ -35,3 +35,5 @@ Q. What are the potential problems that substring() may cause?
 Q. What will happen when a constructor is declared as private and protected?
 Q. Primary key vs unique key
 Q. Hibernate N+1 problem
+Q. Mark and sweep algorithm and Mark sweep compact algorithm in Garbage collection
+Q. Weak reference and Soft reference, when to use what?
