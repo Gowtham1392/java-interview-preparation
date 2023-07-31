@@ -1,4 +1,5 @@
 Q. What is tail traversing? How's that an issue in multi threading?
+Q. How to detect and resolve false sharing issue?
 Q. Can constructors throw exceptions? How or why not?
 Q. Can we synchronize constructors? What will happen?
 Q. Can we call a function from constructor? What will happen next?
