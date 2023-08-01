@@ -6,4 +6,5 @@ Q. Can we call a function from constructor? What will happen next?
 Q. How to access the private members of a class from outside of the class?
 Q. What is the use of a protected constructor?
 Q. Difference between loading a class through Classloader.getSystemClassLoader().loadClass() and loading a class using class.forName()
+Q. Explain what will happen if we declare constructors as final/abstract/static/synchronized?
 
