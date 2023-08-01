@@ -1,27 +1,23 @@
-# Most of these questions are not typical what is this or that kind of questions which we find in Java interview related blogs. 
+# Most of these questions are not typical what is this or that kind of questions which we find in Java interview related blogs/FAQs. 
 # These are the questions which came to my mind when I was preparing for Java interviews.
-# Some are very obvious and some are uncommon/rare.  
+# Some are very obvious and some are uncommon/rare.
 
 Q. What are the different ways to create an Object in Java?
 Q. Explain the process that happens as soon as an Object is created(Constructor chaining)
-Q. Class not found exception vs No class def found error in Java?
+Q. ClassNotFoundException vs NoClassDefFoundError in Java?
 Q. Class.forName() vs loadClass() vs findSystemClass()?
 Q. What would happen if we make static variables as transient?
-Q. Can a class itself be static? Why or why not?
-Q. Why can't the top-level class be static?
-Q. Can we write a virtual method in Java? 
+Q. Can a class itself be static? What will happen or why not?
+Q. Can we write virtual methods in Java? 
 Q. Overriding vs method hiding in Java?
 Q. Why operator overloading is not supported in Java? What about the "+" and "-" operators?
-Q. Why there are no pointers in Java?
 Q. Different ways to prevent overriding in Java?
 Q. What is a covariant return type?
 Q. Can we override static/private method? What happens if we try to do so?
 Q. What the rules to follow to override/overload a method?
-Q. How to write immutable class?
-Q. How to write a Singleton class in Java?
-Q. Different ways to write Singleton class with respect to multi threading? Pros and cons of each.
+Q. How to write an immutable class?
+Q. Different ways to write Singleton class with respect to multi-threading? Pros and cons of each.
 Q. What is effectively final?
-Q. Why constructor can’t be final/abstract/static/synchronized?
 Q. Explain downcasting and upcasting?
 Q. Explain autoboxing and unboxing?
 Q. Advantage of downcasting over supertype reference? Or Why do we need downcasting?
