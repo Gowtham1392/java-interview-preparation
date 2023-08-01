@@ -23,17 +23,15 @@ Q. Explain autoboxing and unboxing?
 Q. Advantage of downcasting over supertype reference? Or Why do we need downcasting?
 Q. Will String s = new String(null) compile? Why not or what will happen next? 
 Q. Explain the flow of how user defined Exceptions work?
-Q. What is Throwable.initCause? How it is useful?
-Q. Difference between == and .equals()?
+Q. What is Throwable.initCause()? How it is useful?
 Q. When will deadlock happen in Java? How to detect deadlocks? How would you prevent it?
 Q. What one should take care of, while serializing the object?
 Q. What are the potential problems that substring() may cause?
-Q. What will happen when a constructor is declared as private and protected?
 Q. Primary key vs unique key
 Q. Hibernate N+1 problem
 Q. Mark and sweep algorithm and Mark sweep compact algorithm in Garbage collection
 Q. Weak reference and Soft reference, when to use what?
 Q. Exception with overriding. Rules and things to follow
-Q. Cyclic barrier and countdown latch
-Q. What exactly is the restriction to use non-static variables into static block(Memory allocation point of view)?
+Q. Explain cyclic barrier and countdown latch
+Q. What exactly is the restriction to use non-static variables into static block? or Why can't we use non-static variables inside static blocks?
 Q. How to handle immutable class with mutable reference?
