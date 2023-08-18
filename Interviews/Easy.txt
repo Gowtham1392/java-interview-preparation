@@ -35,3 +35,5 @@ Q. Exception with overriding. Rules and things to follow
 Q. Explain cyclic barrier and countdown latch
 Q. What exactly is the restriction to use non-static variables into static block? or Why can't we use non-static variables inside static blocks?
 Q. How to handle immutable class with mutable reference?
+Q. Difference between GET and POST(in terms of possible data size that can be sent across) 
+
