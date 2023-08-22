@@ -36,4 +36,10 @@ Q. Explain cyclic barrier and countdown latch
 Q. What exactly is the restriction to use non-static variables into static block? or Why can't we use non-static variables inside static blocks?
 Q. How to handle immutable class with mutable reference?
 Q. Difference between GET and POST(in terms of possible data size that can be sent across) 
+Q. What will happen when an exception occurs in one of the threads?
+Q. Write code to implemet Singly LinkedList in Java?
+Q. Write a Java program to create deadlock and resolve it.
+Q. Write code to implemet BST.
+Q. How to reverse a singly linkedlist in one traversal?
+
 
