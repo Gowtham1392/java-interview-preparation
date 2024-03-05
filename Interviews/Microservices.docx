@@ -5,11 +5,16 @@ Event driven/Domain Driven approaches for inter service communication. Synchrono
 How to scale microservice during runtime/Scale microservice based on incoming requests
 When a microservice has multiple instances how to ensure that a message is read only once
 How to manage security in microservice(LDAP etc.)
-Gateways and service discoveries
+Explain Gateways and service discoveries
 How to manage timeout period for a service
 Hystrix Circuit breaker 
-Spring cloud
+Explain about Spring cloud
 How to change configuration during runtime – Spring cloud bus
 orchestration vs choreography. Advantages and Disadvantages of each.
 What do you think about having Orchestrator inside API Gateway
 What problems do Microservices solve? Why not SOA?
+Best practices while designing microservices.
+If one Microservice doesn't work as expected, how to handle that Microservice from breaking the application?
+How to implement and integrate Microservices on AWS?
+Disadvantages of using Microservies and how to overcome those?
+Cloud-native architecure vs Microservices architecture
