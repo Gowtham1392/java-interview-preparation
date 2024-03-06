@@ -85,3 +85,13 @@ ArgoCD
 GCP
 Bigquery
 Spark
+
+#AWS
+AWS Lambda
+S3
+CloudWatch
+Scaling mechanism
+EC2
+IAM policies
+RDS and support for postgres
+Security related best practices while using AWS
