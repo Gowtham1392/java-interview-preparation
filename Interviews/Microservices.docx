@@ -18,3 +18,5 @@ If one Microservice doesn't work as expected, how to handle that Microservice fr
 How to implement and integrate Microservices on AWS?
 Disadvantages of using Microservies and how to overcome those?
 Cloud-native architecure vs Microservices architecture
+How to implement service discovery?
+Explain the Microservices design patterns used in your project.
