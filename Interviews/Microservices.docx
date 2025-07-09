@@ -22,3 +22,11 @@ Cloud-native architecure vs Microservices architecture
 How to implement service discovery?
 Explain the Microservices design patterns used in your project.
 How security is handled in API gateway?
+Communication bw Microservices - REST(deprecated) , Feign client, gRPC, Kafka
+Service discovery and load - Eureka, Ribbon(deprecated) , Consul, Spring cloud load balancer 
+API gateway & Routing - Centralized API gateway, routing, rate limiting 
+Configuration management - external configuration, profiles
+Security - Authorization, authentication 
+Containerization & deployment - Docker, CI/CD, Kubernetes 
+Resilience & Monitoring - Resilience4j, Slueth, zipkin, elk stack for logging 
+
