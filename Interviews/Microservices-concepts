@@ -1,0 +1,407 @@
+✅ 1. Microservices Fundamentals
+
+Definition & Principles
+
+What is a microservice?
+
+Why microservices over monoliths?
+
+Characteristics: Independent deployability, scalability, decentralized governance, fault isolation
+
+
+Monolith vs Microservices
+
+Pros and cons of each
+
+When to use what
+
+
+Bounded Context (Domain-Driven Design)
+
+Understanding subdomains and context mapping
+
+
+Loose Coupling & High Cohesion
+
+Service independence, minimizing dependencies
+
+Designing for modularity
+
+
+
+
+---
+
+✅ 2. Service Decomposition Strategies
+
+By Business Capability
+
+By Subdomain (DDD)
+
+Avoiding "Entity Service" Anti-Pattern
+
+Understanding Aggregate Roots
+
+
+
+---
+
+✅ 3. Inter-Service Communication
+
+Synchronous Communication
+
+REST over HTTP
+
+gRPC (when to use, advantages)
+
+
+Asynchronous Communication
+
+Message Brokers: RabbitMQ, Apache Kafka, AWS SQS/SNS
+
+Event-Driven Architecture: Event producers and consumers
+
+Message formats: JSON, Avro, Protobuf
+
+
+
+
+---
+
+✅ 4. API Gateway
+
+Responsibilities
+
+Request routing
+
+Authentication & Authorization
+
+Rate limiting
+
+Response aggregation
+
+
+Technologies
+
+Spring Cloud Gateway, Zuul
+
+NGINX, Kong, Ambassador
+
+
+
+
+---
+
+✅ 5. Service Discovery
+
+Client-side vs Server-side
+
+Tools
+
+Netflix Eureka
+
+Consul
+
+Kubernetes DNS-based discovery
+
+
+
+
+---
+
+✅ 6. Configuration Management
+
+Centralized Config
+
+Spring Cloud Config Server
+
+HashiCorp Consul/etcd
+
+
+Environment Profiles
+
+Per-environment config: dev, test, prod
+
+
+
+
+---
+
+✅ 7. Resilience and Fault Tolerance
+
+Retry Mechanisms
+
+What to retry: transient errors only
+
+Tools: Spring Retry, Resilience4j
+
+Backoff strategies: fixed, exponential, jitter
+
+
+Timeouts
+
+Avoid waiting forever on slow services
+
+Configure timeouts for all network calls
+
+
+Circuit Breaker
+
+Open, Half-Open, Closed states
+
+Tools: Resilience4j, Hystrix (deprecated)
+
+
+Fallback Mechanism
+
+Fallback logic for failed dependencies
+
+Static fallback response or alternate service
+
+
+Bulkhead Pattern
+
+Isolate failures in one service/component
+
+Thread pools per dependency
+
+
+Rate Limiting
+
+Prevent abuse/throttling
+
+Tools: Bucket4j, API Gateway Rate Limiter
+
+
+
+
+---
+
+✅ 8. Data Management
+
+Database per Service
+
+Avoid shared schema
+
+Foreign key restrictions in distributed systems
+
+
+Eventual Consistency
+
+Accepting temporary data staleness
+
+Use case-driven consistency decisions
+
+
+Saga Pattern
+
+Orchestration (central service directs)
+
+Choreography (services listen to events)
+
+
+Event Sourcing
+
+Store state as a sequence of events
+
+Replayable event log
+
+
+CQRS (Command Query Responsibility Segregation)
+
+Split read and write models
+
+Use projections for queries
+
+
+
+
+---
+
+✅ 9. Security
+
+OAuth2 Basics
+
+Authorization code flow
+
+Password grant (deprecated for public clients)
+
+
+JWT (JSON Web Tokens)
+
+Claims, expiration, signature
+
+Stateless authentication
+
+
+API Gateway Authentication
+
+Central auth and request forwarding
+
+
+Role-Based Access Control (RBAC)
+
+User roles and permissions
+
+
+Service-to-Service Authentication
+
+Mutual TLS (mTLS)
+
+API keys, signed tokens
+
+
+
+
+---
+
+✅ 10. Observability
+
+Logging
+
+Centralized logging using ELK Stack (Elasticsearch, Logstash, Kibana)
+
+Log correlation with trace IDs
+
+
+Tracing
+
+Distributed tracing with Zipkin, Jaeger
+
+Trace ID propagation
+
+
+Metrics
+
+Application metrics with Micrometer
+
+Prometheus + Grafana for visualization
+
+
+Health Checks
+
+Spring Boot Actuator /health
+
+Kubernetes readiness/liveness probes
+
+
+
+
+---
+
+✅ 11. Deployment and Infrastructure
+
+Containerization
+
+Dockerfile basics
+
+Multi-stage builds
+
+
+Orchestration
+
+Kubernetes concepts: Pods, Services, Deployments, ConfigMaps, Secrets
+
+Helm Charts for packaging services
+
+
+Service Mesh (Advanced)
+
+Sidecars, Istio, Linkerd basics
+
+
+CI/CD
+
+Jenkins, GitHub Actions, GitLab CI
+
+Build-test-deploy pipelines
+
+
+
+
+---
+
+✅ 12. Testing Microservices
+
+Unit Testing
+
+Mockito, JUnit
+
+
+Integration Testing
+
+Spring Boot Test, Testcontainers
+
+
+Contract Testing
+
+Consumer-driven contracts with Pact
+
+
+End-to-End Testing
+
+Postman/Newman, Selenium
+
+
+
+
+---
+
+✅ 13. Versioning and Compatibility
+
+API Versioning Strategies
+
+URL versioning (/v1/resource)
+
+Header versioning
+
+
+Backward Compatibility
+
+Schema evolution for messages (Kafka + Avro)
+
+Avoid breaking changes
+
+
+
+
+---
+
+✅ 14. Common Interview Scenarios
+
+Design an e-commerce system using microservices
+
+Handle payment and order flow using Sagas
+
+Logging and debugging in distributed systems
+
+Circuit breaker behavior under failure
+
+Eventual consistency handling in inventory updates
+
+Designing for failure and fallback
+
+
+
+---
+
+✅ 15. Advanced Concepts (Optional but Valuable)
+
+Domain-Driven Design in-depth (Aggregates, Value Objects, Repositories)
+
+Blue-Green and Canary Deployments
+
+Chaos Engineering: Injecting failures
+
+Trunk-Based Development vs GitFlow
+
+Feature Toggles & Dark Launches
+
+Sidecar pattern, Ambassador pattern
+
+
+
+---
+
+Would you like this in a downloadable Markdown or PDF format, or do you want a custom learning path built from this list?
+
