@@ -8,3 +8,13 @@
 7. How to mock a void method using JUnit?
 8. Annotations used in Spring Boot.
 9. Difference between @component and @service.
+
+=========================Philips========================================================
+1. Write a program to check if two Strings are Anagram.
+2. When does concurrent modification eception occur? How the exception occurs?
+3. When does a deadlock occur? How to avoid this?
+4. Explain functional interface?
+5. If a class implements two interfaces that define the same default method, how can I explicitly call the default method from one specific interface (e.g., Interface1) in the implementing class?]
+6. What are the rules associated with default methods of functional interface? -> 3 rules
+7. What is auto configuration? What are the ways to enable it?
+8. Explain about Active directory. How to migrate db from one db to another db?
