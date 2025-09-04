@@ -1,1 +1,10 @@
-
+=========================HCL SONY CLIENT================================================
+1. I have an employee class which has id, dept and salary. After fetching the data from DB, group the data by dept and salary using Java8.
+2. Check whether SONY is in the middle or not. aaSONYbb -> True, aSONYbb -> True, aSONYbbb -> False.
+3. What are design patterns that you know? Given an existing Shape interface and a concrete factory that currently returns shapes like Circle, Square, and Triangle, which design pattern would allow users to register and create new shapes like Diamond in the future without modifying the existing factory code? ANS -> You can do it 2 ways. one is using reflection and the other way is using hashmap?
+4. have you used Reflection in factory pattern?
+5. My application works fine for all users except one. I want to investigate the issue by asking the affected user to retry the application, and I need to enable detailed logging dynamically during their session. In a microservices architecture, what is the best way to enable and capture dynamic logs for a specific user without restarting services?
+6. Microservice orchestration pattern.
+7. How to mock a void method using JUnit?
+8. Annotations used in Spring Boot.
+9. Difference between @component and @service.
