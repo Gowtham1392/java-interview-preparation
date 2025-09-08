@@ -18,3 +18,13 @@
 6. What are the rules associated with default methods of functional interface? -> 3 rules
 7. What is auto configuration? What are the ways to enable it?
 8. Explain about Active directory. How to migrate db from one db to another db?
+
+=========================Accenture========================================================
+1. In spring boot what can be used for Transaction Management?
+2. In an enterprise application, I want to check the performance of each method. How to check the execution time of each method? Is using AOP slow down the performance of your application? if so, what's the alternate?
+3. How would you block specific IP Addresses or anything similar from accessing your application?
+4. Explain web.xml.
+5. How to apply security with Rest controller?
+6. 
+
+43. 
